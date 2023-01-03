@@ -1,4 +1,3 @@
-# Frontend Mentor - Notifications page solution
 # Quiz 2 - Notifications page solution
 
 This is a solution to the [Notiification homepage Quiz 2 challenge]
