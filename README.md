@@ -1,75 +1,94 @@
-# Quiz Challage - Notifications page
+# Quiz 2 - Notifications page solution
 
-![Design preview for the Notifications page coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [Notiification homepage Quiz 2 challenge]
 
-## Welcome! 👋
+## Table of contents
 
-Thanks for checking out this front-end coding challenge.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-Welcome to Quiz 2 challenge for HCI course, this Quiz only will be opened during your class schedule .
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-**To do this challenge, you need a good understanding of HTML and CSS, and basic JavaScript.**
+## Overview
 
-## The challenge
+### The challenge
 
-Your challenge is to build out this notifications page and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-TARGET: Your users should be able to: 
+Users should be able to:
 
 - Distinguish between "unread" and "read" notifications
 - Select "Mark all as read" to toggle the visual state of the unread notifications and set the number of unread messages to zero
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-NOTE: 
-Just do the best that you could do in the limited of time, and let see how well you could implement HTML, CSS and Basic JS to build a solution
 
-## Where to find everything
+### Screenshot
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+![images](./notif-page.jpg)
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+Add a screenshot of your solution. Crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-All the required assets for this project are in the `/assets` folder. The images are already exported for the correct screen size and optimized.
+**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
-I also include variable and static font files for the required fonts for this project. You can choose to either link to Google Fonts or use the local font files to host the fonts yourself. Note that we've removed the static font files for the font weights that aren't needed for this project.
+### Links
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## Building your project
+## My process
+Following the walkthrough youtube video
+### Built with
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Gri
+- javascript
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). You could just fork this repository to start the process
-2. Configure your repository to publish your code to a web address (I am sure you are familiar already with this step). 
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles, Feel free to use CSS Framework (Bootstrap, etc).
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
-## Deploying your project
+### What I learned
 
-As mentioned above, please hosts your running solution here:
+The quizz is a fun and interactive way to learn new information and test my knowledge. It helps me identify areas where i need to study more, and can also be a useful tool for reviewing and retaining information. after taking it it will boost my confidence and improve my problem-solving skills. Layout on HTML code, CSS and javascript. This will help in improving on the final project with our app.
 
-- [GitHub Pages](https://pages.github.com/)
 
-## Create a custom `README.md`
+If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-I strongly recommend overwriting this `README.md` with a custom one. I've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+**Note: Delete this note and the content within this section and replace with your own learnings.**
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
+### Continued development
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+-class in html
+-javascript since im not too familiar with it
+Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-## Submitting your solution
+**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
-Submit your solution on links below depend on your class (remember each class has different due date)
+### Useful resources
 
-* Submission link for class [L1AC](https://forms.office.com/r/JR157cR8nz) (only open on 6/1/2023 from 13:30 - 17:00)
-* Submission link for class [L1BC](https://forms.office.com/r/6LGsa2siuJ) (only open on 6/1/2023 from 8:30 - 12:00)
-* Submission link for class [L1CC](https://forms.office.com/r/FL0AZjSCNi) (only open on 5/1/2023 from 9:30 - 13:00)
+- (https://www.youtube.com/watch?v=GQIwZ0ix6EE&t=916s) - This youtube video is a lengthy step by step walkthrough which help describe what to do with the asset and how to go about the project
+- (https://www.youtube.com/watch?v=qs_VhlPq5Ik&t=2s) - Youtube video which show how to write the code
+**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
-**Have fun building!** 🚀
+## Your Detail 
 
+- FullName - [Micky Malvino Kusandiwinata]
+- StudentID - [2602174522]
+- BINUS Email - [micky.kusandiwinata@binus.ac.id]
+
+**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
+## Acknowledgments
+
+-deskmates present in class
+-internet (google, youtube)
+
+**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
