@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![images](./notif-page.jpg)
+![images](./notif-page.png)
 
 Add a screenshot of your solution. Crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
