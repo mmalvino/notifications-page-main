@@ -32,7 +32,8 @@ Users should be able to:
 
 ### Screenshot
 
-![images](./notif-page.png)
+![images](./notif-p<img width="1728" alt="notif-page" src="https://user-images.githubusercontent.com/114371813/210707877-5875a2df-4eaf-461c-823c-3e1cce87d018.png">
+age.png)
 
 Add a screenshot of your solution. Crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
